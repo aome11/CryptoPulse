@@ -4,8 +4,6 @@
 
 This project serves as a production-ready demonstration of asynchronous data fetching (`asyncio` / `aiohttp`), background workers, and clean relational database management without the risk of IP bans or rate-limiting issues.
 
-🤖 **Test the live bot in Telegram:** [t.me/YOUR_BOT_USERNAME](https://t.me)
-
 ---
 
 ## 🛠 Tech Stack
